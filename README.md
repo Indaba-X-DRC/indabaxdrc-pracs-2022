@@ -11,6 +11,6 @@ Praticals Notebooks for the Indaba X DRC 2022.
 
 
 This repository contains the practical notebooks for the IndabaX DRC
-2022, held at MAPOND University in Kindu, Maniema D.R. Congo.
+2022, held at MAPON University in Kindu, Maniema D.R. Congo.
 
 See [www.indabax-drc.com](http://www.indabax-drc.com) for more details.
